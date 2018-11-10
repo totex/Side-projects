@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Film adatok -->
+<filmek>
+	<film id="1547">
+		<cim>Rambo - First Blood</cim>
+		<foszereplo>Sylvester Stallone</foszereplo>
+		<rendezo>Ted Kotcheff</rendezo>
+		<zsaner>akcio</zsaner>
+		<imdb>7.7</imdb>
+		<megjelenes>
+			<ev>1982</ev>
+			<honap>10</honap>
+			<nap>22</nap>
+		</megjelenes>
+		<leiras>Seven years after his discharge, Vietnam War veteran John Rambo travels by foot to visit one of his old comrades, but learns upon his arrival that his friend had died from cancer due to Agent Orange exposure during the war.
+		Rambo continues to travel, wandering into the small town of Hope, Washington. He is intercepted by the town's Sheriff, Will Teasle, who considers him an unwanted nuisance. When Rambo asks for directions to a diner, Teasle drives him out of town, and tells him not to return. Rambo returns to town, and Teasle arrests him on charges of vagrancy, resisting arrest, and possessing a concealed knife.</leiras>
+	</film>
+	<film id="2598">
+		<cim>Top Gun</cim>
+		<foszereplo>Tom Cruise</foszereplo>
+		<rendezo>Tony Scott</rendezo>
+		<zsaner>akcio</zsaner>
+		<imdb>6.9</imdb>
+		<megjelenes>
+			<ev>1986</ev>
+			<honap>5</honap>
+			<nap>12</nap>
+		</megjelenes>
+		<leiras>United States Naval Aviator LT Pete "Maverick" Mitchell and his Radar Intercept Officer LTJG Nick "Goose" Bradshaw fly the F-14A Tomcat aboard USS Enterprise (CVN-65). During an interception with two hostile MiG-28 aircraft (portrayed by a Northrop F-5), Maverick gets missile lock on one, while the other hostile aircraft locks onto Maverick's wingman, Cougar. While Maverick drives off the remaining MiG-28, Cougar is too shaken to land, and Maverick, defying orders, shepherds him back to the carrier. Cougar gives up his wings, citing his newborn child that he has never seen. Despite his dislike for Maverick's recklessness, CAG "Stinger" sends him and Goose to attend the Top Gun school at NAS Miramar.</leiras>
+	</film>
+	<film id="1485">
+		<cim>Terminator</cim>
+		<foszereplo>Arnold Schwarzenegger</foszereplo>
+		<rendezo>James Cameron</rendezo>
+		<zsaner>scifi</zsaner>
+		<imdb>8.0</imdb>
+		<megjelenes>
+			<ev>1984</ev>
+			<honap>10</honap>
+			<nap>26</nap>
+		</megjelenes>
+		<leiras>The central theme of the franchise is the battle for survival between the nearly-extinct human race and the world-spanning synthetic intelligence that is Skynet. Skynet is positioned in the first film as a U.S. strategic "Global Digital Defense Network" computer system by Cyberdyne Systems which becomes self-aware. Upon activation, it immediately perceives all humans as a "security threat", and formulates a plan to systematically wipe out humanity itself. The system initiates a nuclear first strike against Russia, thereby ensuring a devastating second strike and a nuclear holocaust which it anticipates will instantly wipe out much of humanity. Indeed, it does, with approximately 3 billion casualties – more than half of the total human population at the time – in the resulting nuclear war. In the post-apocalyptic aftermath, Skynet later builds up its own autonomous machine-based military capability which includes the Terminators used against individual human targets and, therefore, proceeds to wage a persistent total war against the surviving elements of humanity, some of whom have militarily organized themselves into a Resistance. At some point in this future, Skynet develops the ability of time travel, and both it and the Resistance seek to use this technology in order to win the war; either by altering or accelerating past events in Skynet's favour, or by preventing or forestalling the (present) apocalyptic timeline.</leiras>
+	</film>
+</filmek>

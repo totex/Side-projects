@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vallalat>
+    <alkalmazott id="1">
+        <vezetek_nev>Kovacs</vezetek_nev>
+        <kereszt_nev>Margit</kereszt_nev>
+        <becenev>KoMa</becenev>
+        <fizetes>10,000,000</fizetes>
+    </alkalmazott>
+</vallalat>
