@@ -1,0 +1,2 @@
+-right click on project, select properties
+-C/C++ under "All Options" go to "Precompiled Header" and choose "Not Using Precompiled Headers" 
