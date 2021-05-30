@@ -1,0 +1,219 @@
+Kaputelefon|CODEFON
+Gyári cserealkatrészek|FAAC
+Kábelek|Erősáramú MT
+Kábelek|Tűzálló kábel
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Rögzítések|Csavarok, dübelek
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Rögzítések|Rögzítések
+Tápegység, transzformátor|Tűzjelző tápegységek és kiegészítők
+Akkumulátorok, elemek|Elem akkumulátorok
+Kaputechnika, parkolórendszerek|Sorompók
+Biztonságtechnika|Riasztók|SATEL|Kiegészítők
+Biztonságtechnika|Riasztók|SATEL|ABAX2
+Biztonságtechnika|Beléptetők, munkaidő nyilvántartó|SATEL
+Kaputechnika, parkolórendszerek|Redőnymozgatók
+IT, számítástechnikai eszközök|Switchek
+Kaputechnika, parkolórendszerek|Kapuelektronika|Villogók
+Kaputechnika, parkolórendszerek|Kapuvasalat|Sínek, görgők tolókapukhoz
+Tápegység, transzformátor|Tápegység kiegészítők
+Biztonságtechnika|CCTV|Webszerver, videójelátalakítók|Átvitelivezetékek
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Kábelrögzítők, gyorskötöző, kábel kötegelő, bilincs
+Biztonságtechnika|Őrjárat|Elektronikus
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Rögzítések|Tűzálló rögzítések
+Kaputechnika, parkolórendszerek|Kapuelektronika|Távirányítás, távvezérlés
+Kaputechnika, parkolórendszerek|Kapuelektronika
+Villanyszerelés, világítás, rögzítés|Elektronikai alkatrészek|Csatlakozók (dugók)
+Kaputechnika, parkolórendszerek|Ablakmozgatók
+Kábelek|Fűtőkábel|Fűtőkábel, fűtőszönyeg|Fűtőkábel tartozékok
+Kábelek|Fűtőkábel|Fűtőkábel, fűtőszönyeg|Fűtőkábelek
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Érvéghüvely
+Villanyszerelés, világítás, rögzítés|Kéziszerszámok
+Biztonságtechnika|Riasztók
+Kaputechnika, parkolórendszerek|Kapuvasalat|Úszókapu görgők, és kiegészítők tolókapukhoz
+Kaputechnika, parkolórendszerek|Kapuvasalat|Fogaspontok, zsanérok szárnyaskapukhoz
+Kaputechnika, parkolórendszerek|Kapuvasalat|Fogaslécek
+Tápegység, transzformátor|DC/DC konverter
+Villanyszerelés, világítás, rögzítés|Hálózati kábelek
+Biztonságtechnika|Beléptetők, munkaidő nyilvántartó
+Kaputechnika, parkolórendszerek|Kapuvasalat|Kapuvasalat kiegészítők
+Tápegység, transzformátor|Inverter
+Villanyszerelés, világítás, rögzítés|Elektronikai alkatrészek|Biztosíték
+Biztonságtechnika|Riasztók|Átjelző (GPRS, GSM, telefonhívó, kommunikátor)
+Kaputechnika, parkolórendszerek|Garázskapu (szekcionált, billenő) mozgatók
+Kaputechnika, parkolórendszerek|Kapuelektronika|Vezérlések
+Kaputechnika, parkolórendszerek|Szárnyaskapu mozgatók
+Kaputechnika, parkolórendszerek|Tolókapu mozgatók
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Kötődoboz, műanyag doboz, tömszelence
+Kaputelefon|ACI FARFISA|Audiós egységek
+Kaputelefon|ACI FARFISA|Kiegészítők
+Kaputelefon|ACI FARFISA|Tápegységek
+Kaputelefon|ACI FARFISA
+Kaputelefon|ACI FARFISA|Kódzárak és beléptetők
+Kaputelefon|ACI FARFISA|Videós egységek
+Biztonságtechnika|Riasztók|SATEL|Érzékelők
+Biztonságtechnika|Riasztók|Érzékelők|Nyitásérzékelők
+Biztonságtechnika|Tűzjelzők
+Biztonságtechnika|Riasztók|Érzékelők|Rezgés érzékelők
+Biztonságtechnika|Tűzjelzők|Hagyományos érzékelők és kézi jelzésadók|Kézi jelzésadók
+Biztonságtechnika|Tűzjelzők|Hagyományos érzékelők és kézi jelzésadók|Füstérzékelők
+Zár, lakat, ajtóbehúzó|Elektromos zár, síktapadó mágneszár|Elektromos ellenoldal zár (zárfogadó)
+Zár, lakat, ajtóbehúzó
+Hobby elektronika
+Kaputechnika, parkolórendszerek|Forgalomgátló oszlopok
+Kaputechnika, parkolórendszerek|Kapuelektronika|Infrasorompók
+Biztonságtechnika|Riasztók|Távvezérlők
+Biztonságtechnika|Riasztók|Érzékelők|Önálló érzékelők
+Biztonságtechnika|Tűzjelzők|Teszterek
+Kábelek|Csavartérpár, UTP, FTP, Jelző, Adat, Bus
+Biztonságtechnika|Riasztók|Érzékelők|Üvegtörés érzékelők
+Biztonságtechnika|Riasztók|Érzékelők|Mozgásérzékelők
+Biztonságtechnika|Riasztók|Érzékelők
+Zár, lakat, ajtóbehúzó|Elektromos zár, síktapadó mágneszár|Síktapadós elektromos zár
+Biztonságtechnika|Tűzjelzők|GLOBAL FIRE|Modulok
+Biztonságtechnika|Tűzjelzők|GLOBAL FIRE|Címezhető és hagyományos érzékelők
+Biztonságtechnika|Tűzjelzők|GLOBAL FIRE|Tápegységek
+Biztonságtechnika|Tűzjelzők|GLOBAL FIRE|Kiegészítők
+Biztonságtechnika|Tűzjelzők|GLOBAL FIRE|Címezhető és hagyományos központok
+Biztonságtechnika|Tűzjelzők|GLOBAL FIRE|Kézi jelzésadók
+Villanyszerelés, világítás, rögzítés|Figyelmeztető táblák és matricák
+Biztonságtechnika|Tűzjelzők|GLOBAL FIRE|Hang-és/vagy fényjelzők
+Villanyszerelés, világítás, rögzítés|Lámpa, lámpatest, fényforrás, LED, izzó, fénycső, lámpakapcsoló
+Biztonságtechnika|CCTV|Webszerver, videójelátalakítók|Szűrők
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Fém doboz
+Akkumulátorok, elemek|UPS, backup, AGM, zselés akkumulátor
+Akkumulátorok, elemek|Elemek
+Biztonságtechnika|Riasztók|SATEL|Kommunikáció és távvezérlés
+IT, számítástechnikai eszközök|Routerek
+Biztonságtechnika|Riasztók|SATEL|Dobozok és tápegységek
+Tápegység, transzformátor|Tápegység
+Biztonságtechnika|Beléptetők, munkaidő nyilvántartó|ROGER
+Egyéb
+Biztonságtechnika|Riasztók|SATEL|INTEGRA
+Gyári cserealkatrészek|SATEL
+Zár, lakat, ajtóbehúzó|Elektromos zár, síktapadó mágneszár|Elektromos rászerelő zár
+Zár, lakat, ajtóbehúzó|Mechanikus zár|Bevésőzár
+Biztonságtechnika|CCTV|Kamerák|Analóg
+Biztonságtechnika|Beléptetők, munkaidő nyilvántartó|Önálló beléptetők, Standalone
+Zár, lakat, ajtóbehúzó|Cilinder (zárbetét), nyerskulcs
+Biztonságtechnika|Riasztók|SATEL
+Biztonságtechnika|CCTV|Monitorok, tesztmonitorok
+Biztonságtechnika|Beléptetők, munkaidő nyilvántartó|Nyomógombok, vésznyitó
+Zár, lakat, ajtóbehúzó|Ajtóbehúzó, padlócsukó
+Zár, lakat, ajtóbehúzó|Pánikzár
+Biztonságtechnika|Riasztók|Érzékelők|Kültéri érzékelők
+Villanyszerelés, világítás, rögzítés|Hosszabbító, elosztó
+IT, számítástechnikai eszközök
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Szigetelő szalag
+Biztonságtechnika|CCTV|Kamerák|Álkamera
+Villanyszerelés, világítás, rögzítés|Csengő, belépésjelző
+Biztonságtechnika|CCTV|Kamerák
+Villanyszerelés, világítás, rögzítés|Elektronikai alkatrészek|Relék
+Kaputelefon|ORNO
+Biztonságtechnika|CCTV|Kamerák|IP
+Biztonságtechnika|Riasztók|Kültéri védelem
+Biztonságtechnika|Riasztók|SATEL|PERFECTA
+Biztonságtechnika|CCTV|Objektívek, Lencse
+Tápegység, transzformátor|Adapter tápegység
+Biztonságtechnika|CCTV|Webszerver, videójelátalakítók|Analóg optikai átalakítók
+Biztonságtechnika|CCTV|Kamerák|Autóskamera, menetrögzítők, fedélzeti kamerák (DASHCAM)
+Biztonságtechnika|CCTV|Kameraház és tartók
+Biztonságtechnika|CCTV
+Biztonságtechnika|CCTV|Webszerver, videójelátalakítók|Webszerver
+Biztonságtechnika|CCTV|Kamerák|Plug & View IP, bodycam
+Biztonságtechnika|CCTV|Webszerver, videójelátalakítók|Erősítők
+Biztonságtechnika|CCTV|Rendszámfelismerő rendszer, Parkolórendszer
+Biztonságtechnika|CCTV|Kamarevezérlők
+Biztonságtechnika|CCTV|Képrögzítők, VMS menedzsment softver|PROVISION-ISR
+Biztonságtechnika|CCTV|Webszerver, videójelátalakítók
+Biztonságtechnika|Beléptetők, munkaidő nyilvántartó|Kódzár, mechanikus billentyűzet, kódtasztatúra
+Biztonságtechnika|Riasztók|Szirénák
+Tápegység, transzformátor
+Kifutó termékek
+IT, számítástechnikai eszközök|RACK szekrények
+Villanyszerelés, világítás, rögzítés|Elektronikai alkatrészek|Relépanelek
+Tápegység, transzformátor|Segédtáp (egyenáramú)
+Kábelek|Koaxiális kábel
+Zár, lakat, ajtóbehúzó|Mechanikus zár|Bútorzár
+Biztonságtechnika|Riasztók|SATEL|Szirénák
+IT, számítástechnikai eszközök|Memóriakártya
+Gyári cserealkatrészek|PROTECO
+Biztonságtechnika|CCTV|Kamerák|Sportkamerák
+Biztonságtechnika|Riasztók|Érzékelők|Füstérzékelők
+Biztonságtechnika|CCTV|Webszerver, videójelátalakítók|Túlfeszűltségvédők
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Zsugorcső
+Biztonságtechnika|Beléptetők, munkaidő nyilvántartó|SUPREMA
+Biztonságtechnika|Riasztók|TECNOALARM|Központok, kezelő és vezérlő egységek
+Biztonságtechnika|Riasztók|TECNOALARM|Érzékelők
+Biztonságtechnika|Riasztók|TECNOALARM|RSC eszközök
+Biztonságtechnika|Riasztók|TECNOALARM|Kommunikátorok és bővítők modulok
+Biztonságtechnika|Riasztók|TECNOALARM|Kiegészítők
+Biztonságtechnika|Riasztók|TECNOALARM|Szirénák
+Biztonságtechnika|Tűzjelzők|TECNOFIRE|Központok
+Biztonságtechnika|Tűzjelzők|TECNOFIRE|Érzékelők
+Biztonságtechnika|Tűzjelzők|TECNOFIRE|Kiegészítők
+Biztonságtechnika|Tűzjelzők|TECNOFIRE|Kézi jelzésadók
+Biztonságtechnika|Tűzjelzők|TECNOFIRE
+Biztonságtechnika|Tűzjelzők|TECNOFIRE|Bővítők
+Villanyszerelés, világítás, rögzítés|Elektronikai alkatrészek|Védődiódák
+Kaputelefon|FUTURA|Kiegészítők
+Kaputelefon|FUTURA|Rendszereszközök
+Kaputelefon|FUTURA|Lakáskészülékek
+Kaputelefon|FUTURA
+Kaputelefon|FUTURA|Kaputábla
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Rögzítések|Kábelcsatornák, kábelcsövek
+Biztonságtechnika|Riasztók|SATEL|VERSA
+Zár, lakat, ajtóbehúzó|Kerékpár, motorkerékpárzár
+Zár, lakat, ajtóbehúzó|Lakatok
+Zár, lakat, ajtóbehúzó|Mechanikus zár|Redőny és garázsajtó zár
+Kábelek|Biztonságtechnikai kábel
+Kábelek|Tűzjelző kábel
+Biztonságtechnika|Riasztók|SATEL|CA
+Biztonságtechnika|Őrjárat|Mechanikus
+Kábelek|Tápkábel
+Biztonságtechnika|Riasztók|SATEL|ABAX
+Biztonságtechnika|CCTV|Kamerák|Time lapse kamerák
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|NYÁK laptartók, távtartó tüskék
+Biztonságtechnika|CCTV|Inframegvilágítók
+Kaputechnika, parkolórendszerek|Kapuvasalat|Zárak
+Biztonságtechnika|Tűzjelzők|COFEM|Címezhető és hagyományos központok
+Biztonságtechnika|Tűzjelzők|COFEM|Címezhető és hagyományos modulok
+Biztonságtechnika|Tűzjelzők|COFEM|Kiegészítők
+Biztonságtechnika|Tűzjelzők|COFEM|Címezhető és hagyományos érzékelők
+Biztonságtechnika|Tűzjelzők|COFEM|Kézi jelzésadók
+Biztonságtechnika|Tűzjelzők|COFEM|Hang-és/vagy fényjelzők
+Biztonságtechnika|Gázjelzők|COFEM|Központok
+Biztonságtechnika|Gázjelzők|COFEM|Érzékelők
+Biztonságtechnika|Gázjelzők|COFEM|Hang-és/vagy fényjelzők
+Biztonságtechnika|Tűzjelzők|COFEM
+Akkumulátorok, elemek|Akkumulátor töltök
+Biztonságtechnika|Riasztók|SATEL|MICRA
+Biztonságtechnika|Tűzjelzők|Síktapados mágnes tűzgátló ajtókhoz
+Villanyszerelés, világítás, rögzítés
+Kaputelefon
+Villanyszerelés, világítás, rögzítés|Elektronikai alkatrészek|Konnektorok, aljzatok
+Kábelek
+Biztonságtechnika|Riasztó|SATEL|PERFECTA
+Biztonságtechnika|Riasztó|SATEL|CA
+Biztonságtechnika|Riasztó|SATEL|Kiegészítők
+Biztonságtechnika|Riasztó|SATEL|ABAX2
+Biztonságtechnika|Riasztó|SATEL|Érzékelők
+Biztonságtechnika|Riasztó|SATEL|Szirénák
+Biztonságtechnika|Riasztó|SATEL|Kommunikáció és távvezérlés
+Biztonságtechnika|Riasztó|SATEL|Dobozok és tápegységek
+Biztonságtechnika|Riasztó|TECNOALARM|Érzékelők
+Biztonságtechnika|Riasztó|Központok, kezelők és vezérlő egységek
+Biztonságtechnika|Riasztó|Érzékelők|Kiegészítők
+Biztonságtechnika|Riasztó|Szirénák
+Biztonságtechnika|Riasztó|Kültéri védelem
+Biztonságtechnika|Riasztó|Átjelzők (GPRS, GSM, telefonhívó, kommunikátor)
+Biztonságtechnika|Riasztó|Távvezérlők
+Biztonságtechnika
+Kaputechnika, parkolórendszerek|Kapuvasalat
+Kaputechnika, parkolórendszerek
+Hobby elektronika|EVERSPRING okos otthon
+IT, számítástechnikai eszközök|Pendrive
+IT, számítástechnikai eszközök|Hozzáférési pontok (Access point)
+Kábelek|Szereltkábel
+Akkumulátorok, elemek
+Akkumulátorok, elemek|Elem-, akkumulátor töltők
+Kábelek|Fűtőkábel|Fűtőkábel, fűtőszönyeg|Univerzális termosztátok és kültéri vezérlések
+Villanyszerelés, világítás, rögzítés|Szerelési anyagok|Rögzítések
